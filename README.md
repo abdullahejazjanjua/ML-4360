@@ -25,7 +25,8 @@ This assignment can be attempted after completing lectures 3 & 4. It is divided 
 * [Lecture 04 Notes](notes/lecture-04-stereo-reconstruction.pdf)
 
 ## Additional Resources
-* [First Principles of Computer Vision](https://www.youtube.com/@firstprinciplesofcomputerv3258): Some topics that are glossed over in the lecture series can be explored in depth here.
+* [First Principles of Computer Vision](https://www.youtube.com/@firstprinciplesofcomputerv3258): 
+    - Some topics that are glossed over in the lecture series can be explored in depth here.
 
 ## Acknowledgments
 I would like to thank Prof. Andreas Geiger for teaching this wonderful course and Patricia Gschoßmann ([patriciagschossmann.github.io](https://patriciagschossmann.github.io/)) and Christina-Ourania Tze ([raniatze.github.io](https://raniatze.github.io/)) for uploading the assignments.
