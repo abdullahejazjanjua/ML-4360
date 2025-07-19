@@ -1,6 +1,6 @@
 # ML-4360: Computer Vision Course Repository
 
-I have been taking the [Computer Vision course](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/) taught by [Andreas Geiger](https://scholar.google.com/citations?user=SrVnrPcAAAAJ&hl=en). You can find the recorded video lectures [here](https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_).
+I have been taking the [Computer Vision course](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/) taught by [Andreas Geiger](https://scholar.google.com/citations?user=SrVnrPcAAAAJ&hl=en) during my summer. You can find the recorded video lectures [here](https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_).
 
 In this repository, I have collected my solutions to the exercise problems as well as my notes.
 
