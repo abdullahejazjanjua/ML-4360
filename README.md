@@ -29,4 +29,4 @@ This assignment can be attempted after completing lectures 3 & 4. It is divided 
     - Some topics that are glossed over in the lecture series can be explored in depth here.
 
 ## Acknowledgments
-I would like to thank Prof. Andreas Geiger for teaching this wonderful course and Patricia Gschoßmann [patriciagschossmann.github.io](https://patriciagschossmann.github.io/) and [Christina-Ourania Tze](https://raniatze.github.io/)) for uploading the assignments.
+I would like to thank Prof. Andreas Geiger for teaching this wonderful course and [Patricia Gschoßmann](https://patriciagschossmann.github.io/) and [Christina-Ourania Tze](https://raniatze.github.io/) for uploading the assignments.
