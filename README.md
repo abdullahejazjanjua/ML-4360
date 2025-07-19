@@ -8,14 +8,14 @@ In this repository, I have collected my solutions to their exercise problems as 
 You can find assignments [here](https://drive.google.com/drive/folders/17YkOlItn9PycNb5bT_O4nVlavlX0_VKQ). Each assignment is uploaded as .zip.
 
 
-## Assignment 01
+### Assignment 01
 This assignment can be attempted after completing lectures 1 & 2. 
 - [Q1: image formation](exercises/ex_01_image_formation/code_new_2025/image_formation_new_2025.ipynb).
 - [pen and paper](exercises/ex_01_image_formation/ex_01_image_formation_solution.pdf).
 - [Lecture 01 notes](notes/lecture-01-Introduction.pdf).
 - [Lecture 02 notes](notes/lecture-02-image-formation.pdf).
 
-## Assignment 02
+### Assignment 02
 This assignment can be attempted after completing lectures 3 & 4. It is divided in two parts:
 - [Q1: sfm](exercises/ex_02_sfm_and_stereo/code/sfm/sfm.ipynb).
 - [Q2: stereo](exercises/ex_02_sfm_and_stereo/code/stereo/stereo.ipynb).
