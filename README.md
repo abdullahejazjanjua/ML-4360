@@ -26,6 +26,7 @@ This assignment can be attempted after completing lectures 3 & 4. It is divided 
 
 ### Assignment 03
 This assignment can be attempted after completing lectures 5 & 6. It is divided into two parts:
+> This was the hardest assignment so far :(
 
 * [Q1: Localization](exercises/ex_03_graphical_models/code/localization.ipynb)
 * [Q2: Image Denoising](exercises/ex_03_graphical_models/code/denoising.ipynb)
@@ -33,11 +34,10 @@ This assignment can be attempted after completing lectures 5 & 6. It is divided 
 * [Lecture 05 Notes](notes/lecture-05-probabilistic-graphical-models.pdf)
 * [Lecture 06 Notes](notes/lecture-06-applications-of-graphical-models.pdf)
 
-> This was the hardest assignment so far :(
 
 ## Additional Resources
 * [First Principles of Computer Vision](https://www.youtube.com/@firstprinciplesofcomputerv3258): 
-    - SIFT algorithm is really well explained in this!
+    - SIFT algorithm is really well explained in
 
 ## Acknowledgments
 I would like to thank Prof. Andreas Geiger for teaching this wonderful course and [Patricia Gschoßmann](https://patriciagschossmann.github.io/) and [Christina-Ourania Tze](https://raniatze.github.io/) for uploading the assignments.
