@@ -33,6 +33,8 @@ This assignment can be attempted after completing lectures 5 & 6. It is divided 
 * [Lecture 05 Notes](notes/lecture-05-probabilistic-graphical-models.pdf)
 * [Lecture 06 Notes](notes/lecture-06-applications-of-graphical-models.pdf)
 
+> This was the hardest assignment so far :(
+
 ## Additional Resources
 * [First Principles of Computer Vision](https://www.youtube.com/@firstprinciplesofcomputerv3258): 
     - Some topics that are glossed over in the lecture series can be explored in depth here.
