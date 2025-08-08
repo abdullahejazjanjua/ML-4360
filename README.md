@@ -24,6 +24,15 @@ This assignment can be attempted after completing lectures 3 & 4. It is divided 
 * [Lecture 03 Notes](notes/lecture-03-structure-from-motion.pdf)
 * [Lecture 04 Notes](notes/lecture-04-stereo-reconstruction.pdf)
 
+### Assignment 03
+This assignment can be attempted after completing lectures 5 & 6. It is divided into two parts:
+
+* [Q1: Localization](exercises/ex_03_graphical_models/code/localization.ipynb)
+* [Q2: Image Denoising](exercises/ex_03_graphical_models/code/denoising.ipynb)
+* [Pen and Paper Solution](exercises/ex_03_graphical_models/ex_03_graphical_models_solution.pdf) 
+* [Lecture 05 Notes](notes/lecture-05-probabilistic-graphical-models.pdf)
+* [Lecture 06 Notes](notes/lecture-06-applications-of-graphical-models.pdf)
+
 ## Additional Resources
 * [First Principles of Computer Vision](https://www.youtube.com/@firstprinciplesofcomputerv3258): 
     - Some topics that are glossed over in the lecture series can be explored in depth here.
