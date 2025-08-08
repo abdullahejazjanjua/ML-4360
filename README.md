@@ -37,7 +37,7 @@ This assignment can be attempted after completing lectures 5 & 6. It is divided 
 
 ## Additional Resources
 * [First Principles of Computer Vision](https://www.youtube.com/@firstprinciplesofcomputerv3258): 
-    - Some topics that are glossed over in the lecture series can be explored in depth here.
+    - SIFT algorithm is really well explained in this!
 
 ## Acknowledgments
 I would like to thank Prof. Andreas Geiger for teaching this wonderful course and [Patricia Gschoßmann](https://patriciagschossmann.github.io/) and [Christina-Ourania Tze](https://raniatze.github.io/) for uploading the assignments.
