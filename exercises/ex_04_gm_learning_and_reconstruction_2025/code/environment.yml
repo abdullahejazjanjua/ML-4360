@@ -1,0 +1,19 @@
+name: cv-course
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.8
+  - jupyterlab
+  - numpy
+  - matplotlib
+  - k3d
+  - scip
+  - imageio
+  - pip
+  - pip:
+    - Pillow
+    - trimesh
+    # - pip:
+    # - opencv-python==4.5.1.48
