@@ -33,6 +33,16 @@ This assignment can be attempted after completing lectures 5 & 6. It is divided 
 * [Pen and Paper Solution](exercises/ex_03_graphical_models/ex_03_graphical_models_solution.pdf) 
 * [Lecture 05 Notes](notes/lecture-05-probabilistic-graphical-models.pdf)
 * [Lecture 06 Notes](notes/lecture-06-applications-of-graphical-models.pdf)
+  
+### Assignment 04
+This assignment can be attempted after completing lectures 7 & 8. It is divided into two parts:
+
+* [Q1: Photo-metric Stereo](exercises/ex_04_gm_learning_and_reconstruction_2025/code/photometric_stereo.ipynb)
+* [Q2: Marching Cubes Algorithm](exercises/ex_04_gm_learning_and_reconstruction_2025/code/marching_cubes.ipynb)
+* [Pen and Paper Solution](exercises/ex_04_gm_learning_and_reconstruction_2025/ex_04_gm_learning_and_reconstruction_solution.pdf) 
+* [Lecture 07 Notes](notes/lecture-07-learning-in-graphical-models.pdf)
+* [Lecture 08 Notes](notes/lecture-08-shape-from-x.pdf)
+
 
 
 ## Additional Resources
