@@ -4,6 +4,17 @@ I have been taking the [Computer Vision course](https://uni-tuebingen.de/fakulta
 
 In this repository, I have collected my solutions to the exercise problems as well as my notes.
 
+## File structure
+
+├── exercises
+├── LICENSE
+├── notes
+├── projects
+└── README.md
+## Projects
+I will add per-lecture some small projects, where I implement systems from scratch to better
+understand them or play around with existing systems.
+
 ## Assignments
 You can find assignments [here](https://drive.google.com/drive/folders/17YkOlItn9PycNb5bT_O4nVlavlX0_VKQ). Each assignment is uploaded as a `.zip` file.
 
