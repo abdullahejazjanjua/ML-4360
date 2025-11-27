@@ -10,15 +10,11 @@ books
 exercises/ex_solutions
 exercises/old_exams
 
-# NOT YET COMPLETED
-exercises/ex_05_implicit_models_recognition_2025
-exercises/ex_06_self_supervision_and_diverse_topics
-
-
 # Too big to add
 exercises/ex_02_sfm_and_stereo/code/stereo/KITTI_2015_subset
 exercises/ex_02_sfm_and_stereo/code/stereo/examples
 exercises/ex_04_gm_learning_and_reconstruction_2025/code/data
+exercises/ex_06_self_supervision_and_diverse_topics/code/data
 
 # C extensions
 *.so
