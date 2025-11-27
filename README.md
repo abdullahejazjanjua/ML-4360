@@ -4,17 +4,6 @@ I have been taking the [Computer Vision course](https://uni-tuebingen.de/fakulta
 
 In this repository, I have collected my solutions to the exercise problems as well as my notes.
 
-## File structure
-
-├── exercises
-├── LICENSE
-├── notes
-├── projects
-└── README.md
-## Projects
-I will add per-lecture some small projects, where I implement systems from scratch to better
-understand them or play around with existing systems.
-
 ## Assignments
 You can find assignments [here](https://drive.google.com/drive/folders/17YkOlItn9PycNb5bT_O4nVlavlX0_VKQ). Each assignment is uploaded as a `.zip` file.
 
@@ -31,7 +20,7 @@ This assignment can be attempted after completing lectures 3 & 4. It is divided 
 
 * [Q1: Structure from Motion](exercises/ex_02_sfm_and_stereo/code/sfm/sfm.ipynb)
 * [Q2: Stereo](exercises/ex_02_sfm_and_stereo/code/stereo/stereo.ipynb)
-* [Pen and Paper Solution](exercises/ex_02_sfm_and_stereo/pen_and_paper_solution.pdf) 
+* [Pen and Paper Solution](exercises/ex_02_sfm_and_stereo/ex_02_sfm_and_stereo_solution.pdf) 
 * [Lecture 03 Notes](notes/lecture-03-structure-from-motion.pdf)
 * [Lecture 04 Notes](notes/lecture-04-stereo-reconstruction.pdf)
 
@@ -54,6 +43,23 @@ This assignment can be attempted after completing lectures 7 & 8. It is divided 
 * [Lecture 07 Notes](notes/lecture-07-learning-in-graphical-models.pdf)
 * [Lecture 08 Notes](notes/lecture-08-shape-from-x.pdf)
 
+
+### Assignment 05
+This assignment can be attempted after completing lectures 9 & 10. It is divided into two parts:
+
+* [Q1: Implict Representation](exercises/ex_05_implicit_models_recognition_2025/code/implicit.ipynb)
+* [Q2: Recognition](exercises/ex_05_implicit_models_recognition_2025/code/recognition.ipynb)
+* [Pen and Paper Solution](exercises/ex_05_implicit_models_recognition_2025/ex_05_implicit_models_recognition_2025_solution.pdf) 
+* [Lecture 09 Notes](notes/lecture-09-coordinates-based-networks.pdf)
+* [Lecture 10 Notes](notes/lecture-10-recognition.pdf)
+
+
+### Assignment 06
+This assignment can be attempted after completing lectures 11 & 12. It is divided into two parts:
+
+* [Q1: Self Supervised KNN](exercises/ex_06_self_supervision_and_diverse_topics/code/self_supervision.ipynb)
+* [Lecture 10 Notes](notes/lecture-11-self-supervised-learning.pdf)
+* [Lecture 11 Notes](notes/lecture-12-diverse-topics-in-computer-vision.pdf)
 
 
 ## Additional Resources
