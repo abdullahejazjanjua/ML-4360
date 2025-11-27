@@ -7,6 +7,8 @@ In this repository, I have collected my solutions to the exercise problems as we
 ## Assignments
 You can find assignments [here](https://drive.google.com/drive/folders/17YkOlItn9PycNb5bT_O4nVlavlX0_VKQ). Each assignment is uploaded as a `.zip` file.
 
+> The course takes place during the summer, and as such assignments are uploaded during that time. They are removed afterwards.
+
 ### Assignment 01
 This assignment can be attempted after completing lectures 1 & 2.
 
